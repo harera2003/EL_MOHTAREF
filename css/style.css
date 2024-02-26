@@ -73,6 +73,7 @@ nav ul li a:hover::after{
     height: 550px;
     margin-top: 90px;
     margin-right: -50px;
+    margin-bottom: -7px;
 }
 
 .main .main-img img {
